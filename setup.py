@@ -41,7 +41,7 @@ setuptools.setup(
         'babel',
         'future',
         'gin-config',
-        'mesh-tensorflow[transformer]>=0.1.9',
+        #'mesh-tensorflow[transformer]>=0.1.9',
         'nltk',
         'numpy',
         'pandas',
